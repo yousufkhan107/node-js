@@ -1,0 +1,20 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/_error": "pages/_error.js",
+  "/maintenance": "pages/maintenance.js",
+  "/category/[slug]": "pages/category/[slug].js",
+  "/about": "pages/about.js",
+  "/creative-blog": "pages/creative-blog.js",
+  "/contact": "pages/contact.js",
+  "/": "pages/index.js",
+  "/post-list": "pages/post-list.js",
+  "/post/[slug]": "pages/post/[slug].js",
+  "/privacy-policy": "pages/privacy-policy.js",
+  "/404": "pages/404.js",
+  "/tag/[slug]": "pages/tag/[slug].js",
+  "/tech-blog": "pages/tech-blog.js",
+  "/author/[slug]": "pages/author/[slug].js",
+  "/seo-blog": "pages/seo-blog.js",
+  "/lifestyle-blog": "pages/lifestyle-blog.js"
+}
